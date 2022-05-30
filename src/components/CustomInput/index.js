@@ -1,0 +1,1 @@
+import {defoult} from "./CustomInput";
